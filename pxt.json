@@ -2,7 +2,8 @@
     "name": "Culminating project with rrowan",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "darts": "*"
     },
     "files": [
         "main.blocks",
